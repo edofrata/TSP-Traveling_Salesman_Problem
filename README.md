@@ -1,9 +1,9 @@
 # TSP-Traveling_Salesman_Problem
 Traveling Salesman Problem, solved with the following algorithms:
 
--Best First Search (Modified Version)
+- Best First Search (Modified Version)
 
--Lin-Kernighan (Optimiser)
+- Lin-Kernighan (Optimiser)
 
 - Quick Sort - Dual Pivot
 
