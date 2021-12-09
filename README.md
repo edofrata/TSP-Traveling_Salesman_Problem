@@ -8,9 +8,9 @@ Traveling Salesman Problem, solved with the following algorithms:
 - Quick Sort - Dual Pivot
 
 ![alt text](Report/imgages/FirstPage.png "Main page")
-![alt text](Report/images/SecondPage.png "First page")
 ![alt text](Report/images/SecondPage.png "Second page")
 ![alt text](Report/images/ThirdPage.png "Third page")
 ![alt text](Report/images/FourthPage.png "Fourth page")
 ![alt text](Report/images/FifthPage.png "Fifth page")
-![alt text](Report/images/SixthPage.png "Six page")
+![alt text](Report/images/SixthPage.png "Sixth page")
+
