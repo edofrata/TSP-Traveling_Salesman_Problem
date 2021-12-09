@@ -20,7 +20,7 @@ public class Utils {
 	public static boolean the_end = false; // it states the end of the program
 	public static int MAX_SWAP = 0;
 
-	// new object of City
+	// new object of City 
 	City city = new City();
 
 	Utils() {

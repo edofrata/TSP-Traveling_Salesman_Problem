@@ -30,7 +30,7 @@ public class Travel {
 	private int counter_base = 0; // counter which will help to count the city
 	private final double THRESHOLD = 0.00001; // the allowance of acceptance for the Lin-kernighan
 	private City starting_base = City.cities.get(counter_base); // it will hold the value of the city value
-	private final int K_OPT = 2; // number of opts accepted for the Lin-kernighan
+	private final int K_OPT = 3; // number of opts accepted for the Lin-kernighan
 
 	public Travel() {
 		// initialising the value of MAX_SWAP for the Optimisation
